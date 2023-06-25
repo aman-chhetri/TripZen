@@ -1,4 +1,4 @@
-# TripZen: Your Ultimate Travel Planner - Securing Secrets with the Power of Caesar's Cipher
+# TripZen: Your Ultimate Travel Planner
 > TripZen is a powerful and intuitive travel planner designed to simplify the process of creating memorable journeys. With TripZen, users can effortlessly plan their trips, from selecting destinations and creating itineraries to discovering hidden gems and organizing accommodations. The platform provides a seamless user experience, offering personalized recommendations, real-time updates, and an array of features to enhance the travel planning process.
 
 > Live demo: [_here_](https://aman-chhetri.github.io/TripZen/). <!-- Project Link -->
@@ -10,7 +10,7 @@
 * [Challenges I ran into 😓](#challenges)
 * [Accomplishments that I am proud of 🏅](#accomplishments)
 * [What I learned 🎓](#learning)
-* [What's next for CipherX 🔜](#what-next)
+* [What's next for TripZen 🔜](#what-next)
 * [Screenshots 🖼️](#screenshots)
 * [Contact 📩](#contact)
 
